@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Populi — 3D Voxel Civilization God Simulator",
+  "description": "An unscripted 3D voxel civilization god simulator where autonomous block people settle, gather, farm, discover tech from the Stone Age onward, and visibly build cities block by block.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
